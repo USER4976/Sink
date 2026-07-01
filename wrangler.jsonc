@@ -38,13 +38,6 @@
       "id": "d3b883078786412dbb5573e046e40d1b"
     }
   ],
-  "r2_buckets": [
-    {
-      "binding": "R2",
-      "preview_bucket_name": "sink",
-      "bucket_name": "sink"
-    }
-  ],
   "triggers": {
     "crons": ["0 0 * * *"]
   }
